@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145919055832",
+    "project_id": "noteapp-firebaseuiauth",
+    "storage_bucket": "noteapp-firebaseuiauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145919055832:android:a036ee246d3d22060fc4ad",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuiauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145919055832-6skiu2b0i32b34sgi2jpb2fslh9a3ior.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-TryctpEOYf-AdiArRTcB9pf9TPKADwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145919055832-6skiu2b0i32b34sgi2jpb2fslh9a3ior.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
